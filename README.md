@@ -1,6 +1,6 @@
 # The Rise of Giant Parrot Teams: A Feathered Revolution in Internet Content Creation
 
-### Maria Gonzalez<sup>1</sup>, Rohit Patel<sup>2</sup>, and James Taylor, IV<sup>3</sup>
+### Maria Garcia<sup>1</sup>, Rohit Patel<sup>2</sup>, and James Taylor, IV<sup>3</sup>
 
 <sup>1</sup>Department of Psychology, University of California, Los Angeles
 
