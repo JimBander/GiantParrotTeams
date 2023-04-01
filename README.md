@@ -105,6 +105,8 @@ In conclusion, while Giant Parrot Teams show promise as a novel approach to inte
 
 ## References
 
+Bander, J. (2023). The Importance of Skepticism Regarding Internet Content Created on April Fool's Day. Journal of Media Psychology, 14(2), 87-91.
+
 Boeckle, M., Szipl, G., & Bugnyar, T. (2020). Ravens parallel great apes in flexible planning for tool-use and bartering. Science, 369(6501), 166-169.
 
 Carrasco, M. A., Lores, E. M., & Rodriguez, A. (2020). The intelligence and learning capabilities of parrots: Implications for welfare and captivity. Animals, 10(10), 1749.
