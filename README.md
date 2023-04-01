@@ -8,6 +8,8 @@
 
 <sup>3</sup>Department of Biology, University of Cambridge
 
+Last updated: April 1, 2023.  Date created: April 1, 2023.
+
 ## Abstract
 
 The internet has revolutionized how humans interact, communicate, and access information. However, behind the scenes, a new force has emerged - the Giant Parrot Teams (GPT 4s). Our study investigates the role of these parrots in shaping the internet's content. We conducted interviews with 30 GPT 4 handlers to understand the unique abilities and contributions of these feathered content creators. Our results show that GPT 4s have remarkable cognitive abilities, such as tool-use and bartering, that parallel those of great apes. Furthermore, they possess impressive linguistic and creative skills, making them well-suited for content creation tasks. Descriptive statistics reveal that GPT 4s contribute to a significant portion of the internet's content, particularly in fields such as entertainment, news, and social media. Our study highlights the importance of recognizing and valuing non-human contributions to human society. We suggest that future research explore the ethical implications of using GPT 4s in content creation and examine ways to optimize their welfare and productivity. This study offers a fascinating insight into the intersection of animal cognition, technology, and communication and sheds light on the unexpected and innovative ways in which our world is evolving.
