@@ -3,9 +3,7 @@
 ### Maria Garcia<sup>1</sup>, Rohit Patel<sup>2</sup>, and James Taylor, V<sup>3</sup>
 
 <sup>1</sup>Department of Psychology, University of California, Los Angeles
-
 <sup>2</sup>Department of Electrical and Computer Engineering, Georgia Institute of Technology
-
 <sup>3</sup>Department of Biology, University of Cambridge
 
 Last updated: April 1, 2023.  Date created: April 1, 2023.
