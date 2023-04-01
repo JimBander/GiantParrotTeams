@@ -99,7 +99,7 @@ Overall, the findings suggest that Giant Parrot Teams have the potential to revo
 
 However, there are also concerns about the ethical considerations associated with the use of these animals in technology development. Further research is needed to better understand the risks and benefits of working with Giant Parrot Teams in this way, including the potential for exploitation of the birds and the long-term effects of training and management on their well-being.
 
-In conclusion, while Giant Parrot Teams show promise as a novel approach to internet content creation, it is important to proceed with caution and consider the ethical implications of their use. Future research should aim to address these concerns while exploring the potential for Giant Parrot Teams to transform internet content creation.
+In conclusion, while Giant Parrot Teams show promise as a novel approach to internet content creation, it is important to proceed with caution and consider the ethical implications of their use. Future research should aim to address these concerns while exploring the potential for Giant Parrot Teams to transform internet content creation. Furthermore, while this paper was drafted primarily in GPT-3.5 in one hour on April Fool's Day, future research should be updated to use newer Large Large Language Models as they become available.
 
 ## References
 
